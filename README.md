@@ -1,3 +1,5 @@
+![Descripción](C:\Users\neyse\Downloads\code.jpg)
+
 # 💫 About Me:
 👋 ¡Hola! Soy Neyser Rivas<br>Soy un joven programador apasionado por el desarrollo Back-End con Java y Spring Boot. Me encanta crear soluciones que funcionen bien, escalen con facilidad y que realmente aporten valor.<br><br>Me considero un eterno aprendiz: cada línea de código es una oportunidad para crecer, mejorar y descubrir nuevas formas de hacer las cosas. Me entusiasma participar en proyectos colaborativos, enfrentar retos reales y sumergirme en tecnologías que expandan mis horizontes como desarrollador.<br><br>🔧 Actualmente estoy construyendo bases sólidas en arquitecturas modernas, buenas prácticas y herramientas que potencian el desarrollo profesional.<br>🚀 Mi objetivo: contribuir activamente en proyectos que me reten y me permitan dejar huella.<br><br>Si buscas a alguien con energía, iniciativa y muchas ganas de aprender (¡y aportar!), ¡aquí estoy!
 
