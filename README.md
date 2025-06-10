@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Neyser&theme=bear&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random para reflexionar
+### ✍️ Para reflexionar
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
