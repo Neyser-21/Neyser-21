@@ -17,7 +17,7 @@
 ## 🌐✉️  You can contact me at 
 
 <p align="left">
-<a href="https://linkedin.com/in/neyser oswaldo rosales rivas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neyser oswaldo rosales rivas" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/neyser oswaldo rosales rivas](https://www.linkedin.com/in/neyser-oswaldo-rosales-rivas-5562a428b/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neyser oswaldo rosales rivas" height="30" width="40" /></a>
 </p>
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neyserrivas82@gmail.com) 
